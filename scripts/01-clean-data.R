@@ -52,8 +52,8 @@ df1 %>%
 
 ## visualize 
 ggplot(df1) +
-  geom_col(aes(y = n, x = relationship, fill = age_measure)) + 
-  facet_wrap(~parasite_taxonomy*host_taxonomy) +
+  geom_col(aes(y = n, x = relationship, fill = host_taxonomy), position = "dodge2") + 
+  facet_wrap(~parasite_taxonomy*age_measure) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 
