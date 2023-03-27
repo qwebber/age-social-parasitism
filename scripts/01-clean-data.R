@@ -44,15 +44,18 @@ df1 <- age %>%
   summarise(n = n()) %>%
   print(n = 22)
 
-df1 %>%
-  group_by(parasite_taxonomy,
-           host_taxonomy) %>%
-  summarize(n = sum(n))
+## summarize number of rows by parasite and host taxonomy (data.table)
+setDT(df1)[, count := sum(n), by = c("parasite_taxonomy", "host_taxonomy")]
 
+## calculate proportion 
+df1$prop <- df1$n/df1$count
 
-## visualize 
-ggplot(df1) +
-  geom_col(aes(y = n, x = relationship, fill = host_taxonomy), position = "dodge2") + 
+## visualize (cut out viruses)
+ggplot(df1[parasite_taxonomy != "virus"]) +
+  geom_col(aes(y = prop, 
+               x = relationship, 
+               fill = host_taxonomy), 
+           position = "dodge2") + 
   facet_wrap(~parasite_taxonomy*age_measure) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
