@@ -11,16 +11,16 @@ Abu-Madi_et_al_2001,Abu-Madi,2001,Helminthology,parasitology,empirical,Rattus_no
 Allander_1997,Allander,1997,Functional Ecology,ecology,empirical,Parus_major,bird,categorical,2,Haemoproteus_majoris,blood_parasite,endoparasite,reproductive_investment,yes,negative
 Allander_1997,Allander,1997,Functional Ecology,ecology,empirical,Parus_major,bird,categorical,2,Hepatozoon_parus,blood_parasite,endoparasite,reproductive_investment,yes,negative
 Allander_1997,Allander,1997,Functional Ecology,ecology,empirical,Parus_major,bird,categorical,2,Plasmodium_vaughani,blood_parasite,endoparasite,reproductive_investment,yes,negative
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Henneguya_cynoscioni,myxozoa,endoparasite,season,no,non-significant
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Cardicola_spp,digenea,endoparasite,season,no,non-significant
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Kudoa_inornata,myxozoa,endoparasite,season,no,non-significant
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Simuolineadimorpha,myxozoa,endoparasite,season,no,non-significant
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Ichthyophonus sp,mesomycetozoea,endoparasite,season,no,non-significant
-Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,,Microsporidian,microsporidian,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Henneguya_cynoscioni,myxozoa,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Cardicola_spp,digenea,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Kudoa_inornata,myxozoa,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Simuolineadimorpha,myxozoa,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Ichthyophonus sp,mesomycetozoea,endoparasite,season,no,non-significant
+Arnott_et_al_2017,Arnott,2017,Parisitology Research,parasitology,empirical,Cynoscion_nebulosus,fish,continuous,0,Microsporidian,microsporidian,endoparasite,season,no,non-significant
 Balbuena_&_Raga_1991,Balbuena,1991,Canadian Journal of Zoology,general biology,empirical,Globicephala_melas,mammal,categorical,4,Isocyamus_delphini,lice,ectoparasite,sex,no,non-linear
-Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,,Rhipicephalus_microplus,tick,ectoparasite,site,yes,negative
-Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,,Amblyomma_cajennense,tick,ectoparasite,site,yes,negative
-Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,,Haematopinus_tuberculatus,lice,ectoparasite,site,yes,positive
+Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,0,Rhipicephalus_microplus,tick,ectoparasite,site,yes,negative
+Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,0,Amblyomma_cajennense,tick,ectoparasite,site,yes,negative
+Batista_et_al_2018,Batista,2018,Parasites & Vectors,parasitology,empirical,Bubalus_bubalis,mammal,continuous,0,Haematopinus_tuberculatus,lice,ectoparasite,site,yes,positive
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Heligmosomoides_polygyrus,nematode,endoparasite,sex,yes,positive
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Syphacia_stroma,nematode,endoparasite,sex,yes,positive
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Pelodera_strongyloides,nematode,endoparasite,sex,yes,non-significant
@@ -30,14 +30,14 @@ Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemu
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Taenia_taeniaeformis,cestode,endoparasite,sex,yes,unknown
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Corrigia_vitta,trematode,endoparasite,sex,yes,non-significant
 Behnke_et_al_1999,Behnke,1999,Journal of Helminthology,disease,empirical,Apodemus_sylvaticus,mammal,categorical,3,Brachylaemus_recurvum,trematode,endoparasite,sex,yes,unknown
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Dipetalonema_spirocauda,nematode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Otostrongylus_circumlitus,nematode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Parafilaroides_gymnurus,nematode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Ascaridoidea_spec,ascaridoidea,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Phagicola_septentrionalis,trematode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Cryptocotyle_lingua,trematode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Diphyllobothrium_spec,cestode,endoparasite,age,yes,positive
-Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,,Corynosoma_strumosum,acanthocephala,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Dipetalonema_spirocauda,nematode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Otostrongylus_circumlitus,nematode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Parafilaroides_gymnurus,nematode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Ascaridoidea_spec,ascaridoidea,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Phagicola_septentrionalis,trematode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Cryptocotyle_lingua,trematode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Diphyllobothrium_spec,cestode,endoparasite,age,yes,positive
+Borgsteede_et_al_1991,Borgsteede,1991,Sea Research,general biology,empirical,Phoca_vitulina,mammal,continuous,0,Corynosoma_strumosum,acanthocephala,endoparasite,age,yes,positive
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Peromyscus_maniculatus,mammal,categorical,2,Ixodes_spp,tick,ectoparasite,site_and_season,no,non-significant
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Peromyscus_maniculatus,mammal,categorical,2,Amblyomma_americanum,tick,ectoparasite,site_and_season,no,non-significant
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Peromyscus_maniculatus,mammal,categorical,2,Dermacentor_variabilis,tick,ectoparasite,site_and_season,no,non-significant
@@ -101,16 +101,16 @@ Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Blari
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Blarina_brevicuada,mammal,categorical,2,Orchopeas_leucopus,flea,ectoparasite,site_and_season,no,non-significant
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Blarina_brevicuada,mammal,categorical,2,Peromyscopsylla_hesperomys,flea,ectoparasite,site_and_season,no,non-significant
 Bucholz_&_Dick_2017,Bucholz,2017,Northeastern Naturalist,ecology,empirical,Blarina_brevicuada,mammal,categorical,2,Androlaelaps_fahrenholzi,mite,ectoparasite,site_and_season,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Haemaphysalis_punctata,tick,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Hyalomma_lusitanicum,tick,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Goniodes_dispar,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Cuclotogaster_obsurior,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Goniocotes_obscurus,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Menopon_pallens,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Menacanthus_lyali,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,,Columbicola_columbae_columbae,lice,ectoparasite,NDVI_and_temperature,no,non-significant
-Cardon_et_al_2003,Cardon,2011,Animal Ecology,ecology,empirical,Leuciscus_leuciscus,fish,continuous,,Tracheliastes_polycolpus,copepod,ectoparasite,environmental_factors,yes,positive
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Haemaphysalis_punctata,tick,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Hyalomma_lusitanicum,tick,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Goniodes_dispar,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Cuclotogaster_obsurior,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Goniocotes_obscurus,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Menopon_pallens,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Menacanthus_lyali,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Calvete_et_al_2003,Calvete,2003,Medical and Veterinary Entomology,general biology,empirical,Alectoris_rufa,bird,continuous,0,Columbicola_columbae_columbae,lice,ectoparasite,NDVI_and_temperature,no,non-significant
+Cardon_et_al_2003,Cardon,2011,Animal Ecology,ecology,empirical,Leuciscus_leuciscus,fish,continuous,0,Tracheliastes_polycolpus,copepod,ectoparasite,environmental_factors,yes,positive
 Christensen_et_al_2015,Christensen,2015,Wildlife Diseases,disease,empirical,Falco_rusticolus,bird,categorical,2,Cryptocotyle_lingua,trematode,endoparasite,body_condition,yes,non-significant
 Christensen_et_al_2015,Christensen,2015,Wildlife Diseases,disease,empirical,Falco_rusticolus,bird,categorical,2,Cryptocotyle_concavum,trematode,endoparasite,body_condition,yes,non-significant
 Christensen_et_al_2015,Christensen,2015,Wildlife Diseases,disease,empirical,Falco_rusticolus,bird,categorical,2,Strigea_sp,trematode,endoparasite,body_condition,yes,non-significant
@@ -133,14 +133,14 @@ Clemons_et_al_2000,Clemons,2000,Wildlife Diseases,disease,empirical,Lepus_califo
 Clemons_et_al_2000,Clemons,2000,Wildlife Diseases,disease,empirical,Lepus_californicus,mammal,categorical,2,Dermacentor_variabilis,tick,ectoparasite,sex_and_age,yes,non-significant
 Clemons_et_al_2000,Clemons,2000,Wildlife Diseases,disease,empirical,Lepus_californicus,mammal,categorical,2,Ixodes_spinipalpis,tick,ectoparasite,sex_and_age,yes,non-significant
 Clemons_et_al_2000,Clemons,2000,Wildlife Diseases,disease,empirical,Lepus_californicus,mammal,categorical,2,Haemodipsus_setoni,lice,ectoparasite,sex_and_age,yes,non-significant
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Eimeria_sp,coccidian,endoparasite,season,yes,negative
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Bertiella_trichosuri,tapeworm,endoparasite,season,yes,positive
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Trichostrongylus_spp_females,nematode,endoparasite,season,yes,non-linear
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Trichostrongylus_colubriformis,nematode,endoparasite,season,yes,non-linear
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Trichostrongylus_vitrinus,nematode,endoparasite,season,yes,non-linear
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Trichostrongylus_retortaeformis,nematode,endoparasite,season,yes,non-linear
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Paraustrostrongylus_trichosuri,nematode,endoparasite,season,yes,positive
-Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,,Parastrongyloides_trichosuri,nematode,endoparasite,season,yes,positive
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Eimeria_sp,coccidian,endoparasite,season,yes,negative
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Bertiella_trichosuri,tapeworm,endoparasite,season,yes,positive
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Trichostrongylus_spp_females,nematode,endoparasite,season,yes,non-linear
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Trichostrongylus_colubriformis,nematode,endoparasite,season,yes,non-linear
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Trichostrongylus_vitrinus,nematode,endoparasite,season,yes,non-linear
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Trichostrongylus_retortaeformis,nematode,endoparasite,season,yes,non-linear
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Paraustrostrongylus_trichosuri,nematode,endoparasite,season,yes,positive
+Cowan_et_al_2002,Cowan,2002,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,continuous,0,Parastrongyloides_trichosuri,nematode,endoparasite,season,yes,positive
 Davidson_et_al_2015,Davidson,2015,Parasitology: Parasites and Wildlfe,parasitology,empirical,Alces_alces,mammal,categorical,3,Strongyle_eggs,nematode,endoparasite,body_condition,yes,non-significant
 Davidson_et_al_2015,Davidson,2015,Parasitology: Parasites and Wildlfe,parasitology,empirical,Alces_alces,mammal,categorical,3,Eimeria_sp_eggs,nematode,endoparasite,body_condition,yes,non-significant
 Davidson_et_al_2015,Davidson,2015,Parasitology: Parasites and Wildlfe,parasitology,empirical,Alces_alces,mammal,categorical,3,Moniezia_sp_eggs,nematode,endoparasite,body_condition,yes,negative
@@ -218,7 +218,7 @@ Encarnacao_et_al_2012,Encarnacao,2012,Acta Chiropterologica,general biology,empi
 Fauchald_et_al_2007,Fauchald,2007,Oikos,ecology,empirical,Rangifer_tarandus_tarandus,mammal,categorical,2,Hypoderma_tarandi,warble_fly,ectoparasite,density_dependent,yes,positive
 Fecchio_et_al_2015,Fecchio,2015,Canadian Journal of Zoology,general biology,empirical,Neothraupis_fasciata,bird,categorical,3,Haemosporidian,endoparasite,endoparasite,age,yes,positive
 Fernandez_et_al_2017,Fernandez,2017,Zoology,general biology,empirical,Stenella_coeruleoalba,mammal,categorical,3,Syncyamus_aequus,lice,ectoparasite,sex_and_age,yes,non-significant
-Forbes_and_Baker_1991,Forbes,1991,Oecologia,general biology,empirical,Enallagma_ebrium,invertebrate,continuous,,Arrenurus_spp,mite,ectoparasite,body_size,yes,unknown
+Forbes_and_Baker_1991,Forbes,1991,Oecologia,general biology,empirical,Enallagma_ebrium,invertebrate,continuous,0,Arrenurus_spp,mite,ectoparasite,body_size,yes,unknown
 Friesen_et_al_2015,Friesen,2015,Mammology,general biology,empirical,Vulpes_lagopus,mammal,categorical,2,Echinococcus_multilocularis,cestode,endoparasite,diet,yes,non-significant
 Friesen_et_al_2015,Friesen,2015,Mammology,general biology,empirical,Vulpes_lagopus,mammal,categorical,2,Taenia_crassiceps,cestode,endoparasite,diet,yes,non-significant
 Friesen_et_al_2015,Friesen,2015,Mammology,general biology,empirical,Vulpes_lagopus,mammal,categorical,2,Taenia_multiceps,cestode,endoparasite,diet,yes,non-significant
@@ -252,36 +252,36 @@ Geets_et_al_1997,Geets,1997,Parisitology,parasitology,empirical,Siganus_sutor,fi
 Geets_et_al_1997,Geets,1997,Parisitology,parasitology,empirical,Siganus_sutor,fish,categorical,3,Caligidae,copepod,ectoparasite,age,yes,positive
 Geets_et_al_1997,Geets,1997,Parisitology,parasitology,empirical,Siganus_sutor,fish,categorical,3,Gnathia_sp,isopod,ectoparasite,age,yes,positive
 Gilg_et_al_2019,Gilg,2019,Parasites and Wildlife,parasitology,empirical,Dicrostonyx_groenlandicus,mammal,categorical,2,Microcephaloides_krebsi,cestode,endoparasite,site,yes,negative
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Neoheterobothrium_sp,monogenea,ectoparasite,sex_and_age,yes,positive
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Entobdella_hippoglossi,monogenea,ectoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Protochondria_longicauda,copepoda,ectoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Holobomolochus_chilensis,copepoda,ectoparasite,sex_and_age,yes,negative
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Gliptonobdella_sp,hirudinea,ectoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Floridosentis_sp,acanthocephala,endoparasite,sex_and_age,yes,negative
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Corynosoma_australe,acanthocephala,endoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Neobothriocephalus_adspinosus,cestode,endoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Nybelinia_surmenicola,cestode,endoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Scolex_pleuronectis,cestode,endoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Anisakis_sp,nematode,endoparasite,sex_and_age,yes,non-significant
-Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,,Hemiuridae,digenea,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Neoheterobothrium_sp,monogenea,ectoparasite,sex_and_age,yes,positive
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Entobdella_hippoglossi,monogenea,ectoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Protochondria_longicauda,copepoda,ectoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Holobomolochus_chilensis,copepoda,ectoparasite,sex_and_age,yes,negative
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Gliptonobdella_sp,hirudinea,ectoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Floridosentis_sp,acanthocephala,endoparasite,sex_and_age,yes,negative
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Corynosoma_australe,acanthocephala,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Neobothriocephalus_adspinosus,cestode,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Nybelinia_surmenicola,cestode,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Scolex_pleuronectis,cestode,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Anisakis_sp,nematode,endoparasite,sex_and_age,yes,non-significant
+Gonzalez_et_al_2001,Gonzalez,2001,Epidimiology,disease,empirical,Hippoglossina_macrops,fish,continuous,0,Hemiuridae,digenea,endoparasite,sex_and_age,yes,non-significant
 Gwaidowicz_et_al_2020,Gwaidowicz,2020,Acarologia,general biology,empirical,Lacerta_agilis,reptile/amphibian,categorical,2,Ixodes_ricinus,tick,ectoparasite,environment,yes,positive
 Gwaidowicz_et_al_2020,Gwaidowicz,2020,Acarologia,general biology,empirical,Zootoca_vivipara,reptile/amphibian,categorical,2,Ixodes_ricinus,tick,ectoparasite,environment,yes,positive
-Hagris_et_al_2014,Hagris,2014,Southwestern Naturalist,general biology,empirical,Oncorhynchus_nerka,fish,continuous,,Salmincola_californiensis,copepod,ectoparasite,age,yes,positive
-Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,,Crenosoma_triatum,nematode,endoparasite,sex_and_age,yes,non-significant
-Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,,Capillaria_erinacei,nematode,endoparasite,sex_and_age,yes,non-significant
-Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,,Crenosoma_striatum,nematode,endoparasite,sex_and_age,yes,non-significant
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Ascaris_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Subulura_sp,nematode,endoparasite,season,yes,negative
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Capillaria_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Lemuricola_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Oxyuridae_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Oesophagostomum_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Strongylida_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Trichuris_sp,nematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Hymenolepis_sp,cestode,endoparasite,season,yes,negative
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Fasciolidae_sp,trematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Metagonimus_sp,trematode,endoparasite,season,yes,unknown
-Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,,Opisthorchis_sp,trematode,endoparasite,season,yes,unknown
+Hagris_et_al_2014,Hagris,2014,Southwestern Naturalist,general biology,empirical,Oncorhynchus_nerka,fish,continuous,0,Salmincola_californiensis,copepod,ectoparasite,age,yes,positive
+Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,0,Crenosoma_triatum,nematode,endoparasite,sex_and_age,yes,non-significant
+Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,0,Capillaria_erinacei,nematode,endoparasite,sex_and_age,yes,non-significant
+Haigh_et_al_2014,Haigh,2014,Mammalia,general biology,empirical,Erinaceus_europaeus,mammal,continuous,0,Crenosoma_striatum,nematode,endoparasite,sex_and_age,yes,non-significant
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Ascaris_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Subulura_sp,nematode,endoparasite,season,yes,negative
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Capillaria_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Lemuricola_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Oxyuridae_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Oesophagostomum_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Strongylida_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Trichuris_sp,nematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Hymenolepis_sp,cestode,endoparasite,season,yes,negative
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Fasciolidae_sp,trematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Metagonimus_sp,trematode,endoparasite,season,yes,unknown
+Hamalainen_et_al_2015,Hamalainen,2015,Fronteirs in Zoology,general biology,empirical,Microcebus_murinus,mammal,continuous,0,Opisthorchis_sp,trematode,endoparasite,season,yes,unknown
 Hanek_&_Fernando_1978,Hanek,1978,Canadian Journal of Zoology,general biology,empirical,Lepomis_gibbosus,fish,categorical,3,Actinocleidus_gibbosus,monogean,ectoparasite,season_and_habitat,yes,positive
 Hanek_&_Fernando_1978,Hanek,1978,Canadian Journal of Zoology,general biology,empirical,Lepomis_gibbosus,fish,categorical,3,Actinocleidus_recurvatus,monogean,ectoparasite,season_and_habitat,yes,positive
 Hanek_&_Fernando_1978,Hanek,1978,Canadian Journal of Zoology,general biology,empirical,Lepomis_gibbosus,fish,categorical,3,Cleidodiscus_robustus,monogean,ectoparasite,season_and_habitat,yes,positive
@@ -302,9 +302,9 @@ Hawlena_et_al_2005,Hawlena,2005,Population Ecology,ecology,empirical,Gerbillus_a
 Hawlena_et_al_2005,Hawlena,2005,Population Ecology,ecology,empirical,Gerbillus_andersoni,mammal,categorical,2,Androlaelaps_centrocarpus,mite,ectoparasite,soil_temperature,yes,unknown
 Hawlena_et_al_2005,Hawlena,2005,Population Ecology,ecology,empirical,Gerbillus_andersoni,mammal,categorical,2,Androlaelaps_marshalli,mite,ectoparasite,soil_temperature,yes,unknown
 Hawlena_et_al_2006,Hawlena,2006,Parisitology,parasitology,empirical,Gerbillus_andersoni,mammal,categorical,2,Synosterus_cleopatrae,flea,ectoparasite,body_mass,yes,unknown
-Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,,Plasmodium_tropiduri_tropiduri,mite,ectoparasite,climate,no,non-significant
-Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,,Eutrombicula_sp,mite,ectoparasite,climate,no,non-significant
-Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,,Microfilaria,nematode,ectoparasite,climate,no,non-significant
+Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,0,Plasmodium_tropiduri_tropiduri,mite,ectoparasite,climate,no,non-significant
+Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,0,Eutrombicula_sp,mite,ectoparasite,climate,no,non-significant
+Hernandes_Cordoba_and_Braga_2019,Hernandes_Cordoba,2019,Herpetological Conservation and Biology,general biology,empirical,Tropidurus_torquatus,reptile/amphibian,continuous,0,Microfilaria,nematode,ectoparasite,climate,no,non-significant
 Heylen_et_al_2013,Heylen,2013,International Journal for Parisitology,parasitology,empirical,Parus_major,bird,categorical,2,Ixodes_ricinus,tick,ectoparasite,ecological,yes,non-linear
 Hillegass_et_al_2008,Hillegass,2008,Behavioral Ecology,ecology,empirical,Xerus_inauris,mammal,categorical,3,Ctenocephallaes_connatus,flea,ectoparasite,sex_and_sociality,yes,non-linear
 Hillegass_et_al_2008,Hillegass,2008,Behavioral Ecology,ecology,empirical,Xerus_inauris,mammal,categorical,3,Echidniphaga_bradyta,flea,ectoparasite,sex_and_sociality,yes,non-linear
@@ -372,7 +372,7 @@ Isaac_et_al_2018,Isaac,2018,Korean Society for Parisitology and Tropical Medicin
 Isaac_et_al_2018,Isaac,2018,Korean Society for Parisitology and Tropical Medicine,disease,empirical,Mus_musculus,mammal,categorical,3,Toxoplasma_gondii,protozoan,endoparasite,environment,yes,positive
 Ishii_et_al_2017,Ishii,2017,International Journal for Primatology,general biology,empirical,Macaca_fuscata,mammal,categorical,4,Pedicinus_obtusus,lice,ectoparasite,grooming,yes,non-linear
 Ishii_et_al_2017,Ishii,2017,International Journal for Primatology,general biology,empirical,Macaca_fuscata,mammal,categorical,4,Pedicinus_eurygaster,lice,ectoparasite,grooming,yes,non-linear
-Ismen_&_Bingel_1999,Ismen,1999,Fisheries Research,general biology,empirical,Merlangius_merlangus_euxinus,fish,continuous,,Hysterothylacium_aduncum,nematode,endoparasite,season,yes,positive
+Ismen_&_Bingel_1999,Ismen,1999,Fisheries Research,general biology,empirical,Merlangius_merlangus_euxinus,fish,continuous,0,Hysterothylacium_aduncum,nematode,endoparasite,season,yes,positive
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Tetrao_urogallus,bird,categorical,2,Ascaridia_compar,nematode,endoparasite,sex,yes,positive
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Tetrao_urogallus,bird,categorical,2,Skrjabinia_cesticillus,cestode,endoparasite,sex,yes,negative
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Tetrao_urogallus,bird,categorical,2,Paroniella_urogalli,cestode,endoparasite,sex,yes,negative
@@ -385,23 +385,23 @@ Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empir
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Bonasa_bonasia,bird,categorical,2,Skrjabinia_cesticillus,cestode,endoparasite,sex,yes,negative
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Bonasa_bonasia,bird,categorical,2,Paroniella_urogalli,cestode,endoparasite,sex,yes,negative
 Isomursu_et_al_2006,Isomursu,2006,Journal of Avian Biology,general biology,empirical,Bonasa_bonasia,bird,categorical,2,Hymenolepis_spp,cestode,endoparasite,sex,yes,negative
-Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Apodemus_flavicollis,mammal,categorical,2,Ixodes_ricinus,tick,ectoparasite,,no,non-significant
-Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Apodemus_flavicollis,mammal,categorical,2,Dermacentor_reticulatus,tick,ectoparasite,,no,non-significant
-Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Myodes_glareolus,mammal,categorical,2,Ixodes_ricinus,tick,ectoparasite,,no,non-significant
-Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Myodes_glareolus,mammal,categorical,2,Dermacentor_reticulatus,tick,ectoparasite,,no,non-significant
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Dicrocoelium_dendriticum,trematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Anoplocephalidae_gen_sp,cestode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Gongylonema_sp,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Spiculopteragia_houdemeri,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Rinadia_andreevae,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Ostertagia_ostertagi,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Mecistocirrus_sp,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Nematodirus_helcetianus,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Capillaria_bocis,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Trichuris_sp,nematode,endoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Haemaphysalis_japonica,tick,ectoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Solenopotes_sp,lice,ectoparasite,sex_and_age,yes,non-linear
-Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,,Trichodectidae_gen_sp,lice,ectoparasite,sex_and_age,yes,non-linear
+Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Apodemus_flavicollis,mammal,categorical,2,Ixodes_ricinus,tick,ectoparasite,multiple_factors,no,non-significant
+Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Apodemus_flavicollis,mammal,categorical,2,Dermacentor_reticulatus,tick,ectoparasite,multiple_factors,no,non-significant
+Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Myodes_glareolus,mammal,categorical,2,Ixodes_ricinus,tick,ectoparasite,multiple_factors,no,non-significant
+Kiffner_et_al_2011,Kiffner,2011,Parasitology Research,parasitology,empirical,Myodes_glareolus,mammal,categorical,2,Dermacentor_reticulatus,tick,ectoparasite,multiple_factors,no,non-significant
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Dicrocoelium_dendriticum,trematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Anoplocephalidae_gen_sp,cestode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Gongylonema_sp,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Spiculopteragia_houdemeri,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Rinadia_andreevae,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Ostertagia_ostertagi,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Mecistocirrus_sp,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Nematodirus_helcetianus,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Capillaria_bocis,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Trichuris_sp,nematode,endoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Haemaphysalis_japonica,tick,ectoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Solenopotes_sp,lice,ectoparasite,sex_and_age,yes,non-linear
+Kitamura_et_al_1997,Kitamura,1997,Journal of Wildlife Diseases,disease,empirical,Cercus_nippon_yezoensis,mammal,continuous,0,Trichodectidae_gen_sp,lice,ectoparasite,sex_and_age,yes,non-linear
 Kleindorfer_et_al_2006,Kleindorfer,2006,Austral Orinithology,general biology,empirical,Phylidonyris_novaehollandiae,bird,categorical,2,Ixodes_sp,tick,ectoparasite,site_specificity,yes,negative
 Kleindorfer_et_al_2006,Kleindorfer,2006,Austral Orinithology,general biology,empirical,Phylidonyris_novaehollandiae,bird,categorical,2,Haemoproteus_spp,blood_parasite,endoparasite,site_specificity,yes,negative
 Knezevich_1998,Knezevich,1998,American Journal of Primatology,general biology,empirical,Macaca_mulatta,mammal,categorical,5,Trichuris_trichiura,whipworm,endoparasite,geophagy,yes,negative
@@ -426,13 +426,13 @@ Kpan_et_al_2018,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_a
 Kpan_et_al_2019,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_phyllophilus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
 Kpan_et_al_2020,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_villiersi,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
 Kpan_et_al_2021,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_plicatus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_agrarius,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_flavicoliis,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_sylvaticus,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_uralensis,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Clethrionomys_glareolus,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Microtus_arvalis,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
-Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Microtus_subterraneus,mammal,continuous,,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_agrarius,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_flavicoliis,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_sylvaticus,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_uralensis,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Clethrionomys_glareolus,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Microtus_arvalis,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
+Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Microtus_subterraneus,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
 Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suricata_suricatta,mammal,categorical,4,Toxocara_suricattae,nematode,endoparasite,group_factors,yes,positive
 Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suricata_suricatta,mammal,categorical,4,Oxynema_suricattae,endoparasite,endoparasite,group_factors,yes,positive
 Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suricata_suricatta,mammal,categorical,4,Pseudandrya_suricattae,endoparasite,endoparasite,group_factors,yes,positive
@@ -440,7 +440,7 @@ Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suric
 Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suricata_suricatta,mammal,categorical,4,Spirurida_nematode,nematode,endoparasite,group_factors,yes,positive
 Leclaire_&_Faulkner_2014,Leclaire,2014,Parisitology,parasitology,empirical,Suricata_suricatta,mammal,categorical,4,Coccidia_oocysts,endoparasite,endoparasite,group_factors,yes,positive
 Lee_et_al_2018,Lee,2018,Acta Chiropterologica,general biology,empirical,Cynopterus_brachyotis,mammal,categorical,2,Leptocyclopodia_ferrarii_ferrarii,batfly,ectoparasite,reproductive_state,yes,non-linear
-Leung_et_al_1999,Leung,1999,International Journal for Parasitology,parasitology,empirical,Ichnura_verticalis,invertebrate,continuous,,Arrenurus_pseudosuperior,mite,ectoparasite,development_stage,yes,non-linear
+Leung_et_al_1999,Leung,1999,International Journal for Parasitology,parasitology,empirical,Ichnura_verticalis,invertebrate,continuous,0,Arrenurus_pseudosuperior,mite,ectoparasite,development_stage,yes,non-linear
 Levin_&_Parker_2012,Levin,2012,Journal of Parasitology,parasitology,empirical,Fregata_minor,bird,categorical,3,Olfersia_spinifera,fly,ectoparasite,sex_and_age,yes,non-linear
 Lim_et_al_2020,Lim,2020,Parasites and Wildlife,parasitology,empirical,Cynopterus_brachyotis,mammal,categorical,2,Leptocyclopodia_ferrarii,batfly,ectoparasite,roosting,yes,non-linear
 Lim_et_al_2020,Lim,2020,Parasites and Wildlife,parasitology,empirical,Eonycteris_spelaea,mammal,categorical,2,Eucampsipoda_sundaica,batfly,ectoparasite,roosting,yes,non-linear
@@ -507,14 +507,14 @@ Maurer_et_al_2020,Maurer,2020,Journal of Zoo and Widlife Medicine,disease,empiri
 Maurer_et_al_2020,Maurer,2020,Journal of Zoo and Widlife Medicine,disease,empirical,Cyclura_lewisi,reptile/amphibian,categorical,2,trichomonad_trophozoites,protozoa,endoparasite,captive_vs_wild,yes,non-linear
 Maurer_et_al_2020,Maurer,2020,Journal of Zoo and Widlife Medicine,disease,empirical,Cyclura_lewisi,reptile/amphibian,categorical,2,oxyruid,nematode,endoparasite,captive_vs_wild,yes,non-linear
 Maurer_et_al_2020,Maurer,2020,Journal of Zoo and Widlife Medicine,disease,empirical,Cyclura_lewisi,reptile/amphibian,categorical,2,trichostrongylid_eggs,nematode,endoparasite,captive_vs_wild,yes,non-linear
-Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Psetta_maxima,fish,continuous,,Lepeophtheirus_thompsoni,copepod,ectoparasite,anatomy,yes,negative
-Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Scophthalmus_rhombus,fish,continuous,,Lepeophtheirus_europaensis,copepod,ectoparasite,anatomy,yes,positive
-Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Platichthys_flesus,fish,continuous,,Lepeophtheirus_europaensis,copepod,ectoparasite,anatomy,yes,positive
+Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Psetta_maxima,fish,continuous,0,Lepeophtheirus_thompsoni,copepod,ectoparasite,anatomy,yes,negative
+Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Scophthalmus_rhombus,fish,continuous,0,Lepeophtheirus_europaensis,copepod,ectoparasite,anatomy,yes,positive
+Meeus_et_al_1995,Meeus,1995,Acta Ecologica,general biology,empirical,Platichthys_flesus,fish,continuous,0,Lepeophtheirus_europaensis,copepod,ectoparasite,anatomy,yes,positive
 Milton_1996,Milton,1996,Zoological Society of London,general biology,empirical,Aloutta_palliata,mammal,categorical,4,Alouattanmyia_baeri,botfly,ectoparasite,troop_size,yes,non-linear
-Moller_&_DeLope_1999,Moller,1999,Journal of Animal Ecology,ecology,empirical,Hirundo_rustica_L,bird,continuous,,Hirundoecus_malleus_L,lice,ectoparasite,migration_and_reproduction,yes,non-linear
-Moller_&_DeLope_1999,Moller,1999,Journal of Animal Ecology,ecology,empirical,Hirundo_rustica_L,bird,continuous,,Ornithonyssus_bursa,mite,ectoparasite,migration_and_reproduction,yes,non-linear
-Monello_&_Gompper_2009,Monello,2009,Journal of Parasitology,parasitology,empirical,Procyon_lotor,mammal,continuous,,Trichodectes_octomaculatus,lice,ectoparasite,social_aggregation,yes,non-significant
-Monello_&_Gompper_2009,Monello,2009,Journal of Parasitology,parasitology,empirical,Procyon_lotor,mammal,continuous,,Orchopeas_howardi,flea,ectoparasite,social_aggregation,yes,non-significant
+Moller_&_DeLope_1999,Moller,1999,Journal of Animal Ecology,ecology,empirical,Hirundo_rustica_L,bird,continuous,0,Hirundoecus_malleus_L,lice,ectoparasite,migration_and_reproduction,yes,non-linear
+Moller_&_DeLope_1999,Moller,1999,Journal of Animal Ecology,ecology,empirical,Hirundo_rustica_L,bird,continuous,0,Ornithonyssus_bursa,mite,ectoparasite,migration_and_reproduction,yes,non-linear
+Monello_&_Gompper_2009,Monello,2009,Journal of Parasitology,parasitology,empirical,Procyon_lotor,mammal,continuous,0,Trichodectes_octomaculatus,lice,ectoparasite,social_aggregation,yes,non-significant
+Monello_&_Gompper_2009,Monello,2009,Journal of Parasitology,parasitology,empirical,Procyon_lotor,mammal,continuous,0,Orchopeas_howardi,flea,ectoparasite,social_aggregation,yes,non-significant
 Monello_&_Gompper_2011,Monello,2011,Oikos,general biology,empirical,Procyon_lotor,mammal,categorical,4,Eimeria_nutalli,apicomplexan,endoparasite,social_aggregation,yes,non-linear
 Monello_&_Gompper_2011,Monello,2011,Oikos,general biology,empirical,Procyon_lotor,mammal,categorical,4,Placoconus_lotoris,endoparasite,endoparasite,social_aggregation,yes,non-linear
 Monello_&_Gompper_2011,Monello,2011,Oikos,general biology,empirical,Procyon_lotor,mammal,categorical,4,Molineus_barbatus,endoparasite,endoparasite,social_aggregation,yes,non-linear
@@ -547,36 +547,36 @@ Nielsen_et_al_2020,Nielsen,2020,Journal of Avian Biology,general biology,empiric
 Nielsen_et_al_2020,Nielsen,2020,Journal of Avian Biology,general biology,empirical,Lagopus_muta,bird,categorical,2,Lagopoecus_affinis,lice,ectoparasite,sex_and_age,yes,non-linear
 Nielsen_et_al_2020,Nielsen,2020,Journal of Avian Biology,general biology,empirical,Lagopus_muta,bird,categorical,2,Amyrsidea_lagopi,lice,ectoparasite,sex_and_age,yes,non-linear
 Nielsen_et_al_2020,Nielsen,2020,Journal of Avian Biology,general biology,empirical,Lagopus_muta,bird,categorical,2,Ornithomya_chloropus,louse_fly,ectoparasite,sex_and_age,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Carduelis_chloris,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Carduelis_chloris,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Certhia_brachydactyla,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Certhia_brachydactyla,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cetia_cetti,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cetia_cetti,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cyanistes_caeruleus,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cyanistes_caeruleus,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Erithacus_rubecula,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Erithacus_rubecula,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Fringilla_coelebs,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Fringilla_coelebs,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Parus_major,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Parus_major,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_atricapilla,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_atricapilla,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_melanocephala,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_melanocephala,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Troglodytes_troglodytes,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Troglodytes_troglodytes,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_merula,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_merula,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_philomelos,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_philomelos,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Regulus_ignicapillus,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Regulus_ignicapillus,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Serinus_serinus,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Serinus_serinus,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sitta_europaea,bird,continuous,,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
-Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sitta_europaea,bird,continuous,,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Carduelis_chloris,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Carduelis_chloris,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Certhia_brachydactyla,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Certhia_brachydactyla,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cetia_cetti,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cetia_cetti,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cyanistes_caeruleus,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Cyanistes_caeruleus,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Erithacus_rubecula,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Erithacus_rubecula,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Fringilla_coelebs,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Fringilla_coelebs,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Parus_major,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Parus_major,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_atricapilla,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_atricapilla,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_melanocephala,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sylvia_melanocephala,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Troglodytes_troglodytes,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Troglodytes_troglodytes,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_merula,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_merula,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_philomelos,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Turdus_philomelos,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Regulus_ignicapillus,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Regulus_ignicapillus,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Serinus_serinus,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Serinus_serinus,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sitta_europaea,bird,continuous,0,Ixodes_ricinus,tick,ectoparasite,physiological,yes,non-linear
+Norte_et_al_2013,Norte,2013,Parasitology Research,parasitology,empirical,Sitta_europaea,bird,continuous,0,Ixodes_frontalis,tick,ectoparasite,physiological,yes,non-linear
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_tiomanicus,mammal,categorical,2,Laelaps_nuttali,mite,ectoparasite,season,no,non-significant
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_tiomanicus,mammal,categorical,2,Laelaps_echidninus,mite,ectoparasite,season,no,non-significant
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_tiomanicus,mammal,categorical,2,Ornithonyssus_bacoti,mite,ectoparasite,season,no,non-significant
@@ -637,11 +637,11 @@ Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rat
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_norvegicus,mammal,categorical,2,Mastophorus_muris,nematode,endoparasite,season,no,non-significant
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_norvegicus,mammal,categorical,2,Syphacia_muris,nematode,endoparasite,season,no,non-significant
 Nursyazana_et_al_2013,Nursyazana,2013,Tropical Biomedicine,disease,empirical,Rattus_norvegicus,mammal,categorical,2,Hepatojarakus_malayae,nematode,endoparasite,season,no,non-significant
-Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,,Graphidium_strigosum,nematode,endoparasite,MHC,yes,positive
-Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,,Passalurus_ambiguus,nematode,endoparasite,MHC,yes,positive
-Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,,Trichostrongylus_retortaeformis,nematode,endoparasite,MHC,yes,negative
-Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,,Eimeria_stiedai,coccidia,endoparasite,MHC,yes,negative
-Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,,Eimeria_spp,coccidia,endoparasite,MHC,yes,negative
+Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,0,Graphidium_strigosum,nematode,endoparasite,MHC,yes,positive
+Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,0,Passalurus_ambiguus,nematode,endoparasite,MHC,yes,positive
+Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,0,Trichostrongylus_retortaeformis,nematode,endoparasite,MHC,yes,negative
+Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,0,Eimeria_stiedai,coccidia,endoparasite,MHC,yes,negative
+Opplet_et_al_2010,Opplet,2010,Molecular Ecology,ecology,empirical,Oryctolagus_cuniculus,mammal,continuous,0,Eimeria_spp,coccidia,endoparasite,MHC,yes,negative
 Paakkonen_et_al_2010,Paakkonen,2010,Medical and Veterinary Entomology,general biology,empirical,Alces_alces,mammal,categorical,2,Lipoptena_cervi,fly,ectoparasite,body_area,yes,non-linear
 Patterson_et_al_2015,Patterson,2015,International Journal for Parasitology,parasitology,empirical,Tamiasciurus_hudsonicus,mammal,categorical,2,Orchopeas_caedens,flea,ectoparasite,season,yes,negative
 Patterson_et_al_2015,Patterson,2015,International Journal for Parasitology,parasitology,empirical,Tamiasciurus_hudsonicus,mammal,categorical,2,Monopsyllus_vison,flea,ectoparasite,season,yes,negative
@@ -656,7 +656,7 @@ Pearce_&_O'Shea_2007,Pearce,2007,Journal of Parasitology,parasitology,empirical,
 Pearce_&_O'Shea_2007,Pearce,2007,Journal of Parasitology,parasitology,empirical,Eptesicus_fuscus,mammal,categorical,2,Basilia_forcipata,batfly,ectoparasite,temperature_and_humidity,yes,positive
 Pearce_&_O'Shea_2007,Pearce,2007,Journal of Parasitology,parasitology,empirical,Eptesicus_fuscus,mammal,categorical,2,Cimex_pilosellus,batbug,ectoparasite,temperature_and_humidity,yes,positive
 Pearce_&_O'Shea_2007,Pearce,2007,Journal of Parasitology,parasitology,empirical,Eptesicus_fuscus,mammal,categorical,2,Myodopsylla_borealis,flea,ectoparasite,temperature_and_humidity,yes,non-significant
-Pelletier_et_al_2005,Pelletier,2005,Oikos,general biology,empirical,Ovis_canadensis,mammal,continuous,,Protostrongylus_spp,lungworm,endoparasite,season,no,non-significant
+Pelletier_et_al_2005,Pelletier,2005,Oikos,general biology,empirical,Ovis_canadensis,mammal,continuous,0,Protostrongylus_spp,lungworm,endoparasite,season,no,non-significant
 Piross_et_al_2020,Piross,2020,Parasitology Research,parasitology,empirical,Falco_amurensis,bird,categorical,2,Colpocephalum_subzerafae,lice,ectoparasite,sex_and_age,yes,negative
 Piross_et_al_2020,Piross,2020,Parasitology Research,parasitology,empirical,Falco_amurensis,bird,categorical,2,Degeeriella_rufa,lice,ectoparasite,sex_and_age,yes,negative
 Pollock_&_John_Alder_2020,Pollock,2020,Journal of Herpetology,general biology,empirical,Sceloporus_undulatus,reptile/amphibian,categorical,2,Eutrombicula_alfreddugesi,mite,ectoparasite,season,yes,non-linear
@@ -676,13 +676,13 @@ Postawa_&_Nagy_2016,Postawa,2016,Parasitology Research,parasitology,empirical,My
 Postawa_&_Nagy_2016,Postawa,2016,Parasitology Research,parasitology,empirical,Myotis_blythii,mammal,categorical,2,Ixodidae,tick,ectoparasite,hibernation_period,no,non-linear
 Postawa_&_Nagy_2016,Postawa,2016,Parasitology Research,parasitology,empirical,Myotis_blythii,mammal,categorical,2,Siphonaptera,flea,ectoparasite,hibernation_period,no,non-linear
 Postawa_et_al_2014,Postawa,2014,Folia Parasitologica,parasitology,empirical,Myotis_myotis,mammal,categorical,2,Spinturnix_myoti,mite,ectoparasite,breeding,no,non-linear
-Potti_&_Merino_1995,Potti,1995,Journal of Avian Biology,general biology,empirical,Ficedula_hypoleuca,bird,continuous,,Docophorulus_capillatus,lice,ectoparasite,sex_and_age,yes,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Ascetolichus_ruidus,mite,ectoparasite,site,no,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Echinozonus_leurophyllus,mite,ectoparasite,site,no,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Echinozonus_longisetosus,mite,ectoparasite,site,no,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Gallilichus_jonesi,mite,ectoparasite,site,no,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Goniodurus_quadratus,mite,ectoparasite,site,no,non-significant
-Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,,Leipobius_sp,mite,ectoparasite,site,no,non-significant
+Potti_&_Merino_1995,Potti,1995,Journal of Avian Biology,general biology,empirical,Ficedula_hypoleuca,bird,continuous,0,Docophorulus_capillatus,lice,ectoparasite,sex_and_age,yes,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Ascetolichus_ruidus,mite,ectoparasite,site,no,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Echinozonus_leurophyllus,mite,ectoparasite,site,no,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Echinozonus_longisetosus,mite,ectoparasite,site,no,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Gallilichus_jonesi,mite,ectoparasite,site,no,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Goniodurus_quadratus,mite,ectoparasite,site,no,non-significant
+Proctor_&_Jones_2004,Proctor,2004,Journal of Parasitology,parasitology,empirical,Alectura_lathami,bird,continuous,0,Leipobius_sp,mite,ectoparasite,site,no,non-significant
 Rajemison_et_al_2017,Rajemison,2017,Acta Chiropterologia,general biology,empirical,Rousettus_madagascariensis,mammal,categorical,3,Eucampsipoda_madagascarensis,fly,ectoparasite,season,no,non-linear
 Rajemison_et_al_2017,Rajemison,2017,African Entomology,general biology,empirical,Rousettus_madagascariensis,mammal,categorical,3,Eucampsipoda_madagascarensis,fly,ectoparasite,season,no,non-linear
 Rajemison_et_al_2017,Rajemison,2017,African Entomology,general biology,empirical,Rousettus_madagascariensis,mammal,categorical,3,Megastrebla_wenzeli,fly,ectoparasite,season,no,non-significant
@@ -799,20 +799,20 @@ Skirnisson_et_al_2012,Skirnisson,2012,Comparative Parasitology,parasitology,empi
 Skirnisson_et_al_2012,Skirnisson,2012,Comparative Parasitology,parasitology,empirical,Lagopus_muta,bird,categorical,2,Amyrsidea_lagopi,lice,ectoparasite,sex_and_age,yes,non-significant
 Skirnisson_et_al_2012,Skirnisson,2012,Comparative Parasitology,parasitology,empirical,Lagopus_muta,bird,categorical,2,Ornithomya_chloropus,louse_fly,ectoparasite,sex_and_age,yes,negative
 Sol_et_al_2003,Sol,2003,Populaton Ecology,ecology,empirical,Columba_livia,bird,categorical,2,Haemoproteus_columbae,blood_parasite,endoparasite,age,yes,negative
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Ornithonyssus_bacoti,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Radfordia_ensifera,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Laelaps_nuttalli,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Echidnophaga_gallinacea,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Leptopsylla_segnis,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Xenopsylla_cheopis,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,,Polypla_spinulosa,lice,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Ornithonyssus_bacoti,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Radfordia_ensifera,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Laelaps_nuttalli,mite,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Echidnophaga_gallinacea,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Leptopsylla_segnis,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Xenopsylla_cheopis,flea,ectoparasite,sex_and_age,yes,positive
-Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,,Polypla_spinulosa,lice,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Ornithonyssus_bacoti,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Radfordia_ensifera,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Laelaps_nuttalli,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Echidnophaga_gallinacea,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Leptopsylla_segnis,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Xenopsylla_cheopis,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_rattus,mammal,continuous,0,Polypla_spinulosa,lice,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Ornithonyssus_bacoti,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Radfordia_ensifera,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Laelaps_nuttalli,mite,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Echidnophaga_gallinacea,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Leptopsylla_segnis,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Xenopsylla_cheopis,flea,ectoparasite,sex_and_age,yes,positive
+Soliman_et_al_2001,Soliman,2001,Journal of Parasitology,parasitology,empirical,Rattus_norvegicus,mammal,continuous,0,Polypla_spinulosa,lice,ectoparasite,sex_and_age,yes,positive
 Sorci_1996,Sorci,1996,The Journal of Parasitology,parasitology,empirical,Laceria_vivipara,reptile/amphibian,categorical,5,Haemogregarines,protozoa,endoparasite,age,yes,positive
 Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,4,Eimeria_sp,coccidia,endoparasite,site,yes,non-linear
 Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,4,Parastrongyloides_trichosuri,nematode,endoparasite,site,yes,positive
@@ -823,7 +823,7 @@ Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general b
 Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,4,Petrogalochirus_dycei,mite,ectoparasite,site,yes,unknown
 Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,4,Atellana_papilio,mite,ectoparasite,site,yes,unknown
 Stankiewicz_et_al_1996,Stankiewicz,1996,New Zealand Journal of Zoology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,4,Murichirus_anabiotus,mite,ectoparasite,site,yes,unknown
-Susdorf_et_al_2018,Susdorf,2018,Marine Ecology Progress Series,general biology,empirical,Salmo_salar,fish,continuous,,Lepeophtheirus_salmonis,lice,ectoparasite,somatic_condition,no,non-significant
+Susdorf_et_al_2018,Susdorf,2018,Marine Ecology Progress Series,general biology,empirical,Salmo_salar,fish,continuous,0,Lepeophtheirus_salmonis,lice,ectoparasite,somatic_condition,no,non-significant
 Thille_et_al_2019,Thille,2019,Veterinary World,disease,empirical,Rattus_norvegicus,mammal,categorical,2,mesotigmatid,mite,ectoparasite,sex_and_age,yes,positive
 Thille_et_al_2019,Thille,2019,Veterinary World,disease,empirical,Rattus_norvegicus,mammal,categorical,2,Atopomelidae,mite,ectoparasite,sex_and_age,yes,positive
 Thille_et_al_2019,Thille,2019,Veterinary World,disease,empirical,Rattus_norvegicus,mammal,categorical,2,Listrophoridae,mite,ectoparasite,sex_and_age,yes,positive
@@ -840,19 +840,19 @@ Veine-Smith_et_al_2011,Veine-Smith,2011,Comparative Parasitology,parasitology,em
 Veine-Smith_et_al_2011,Veine-Smith,2011,Comparative Parasitology,parasitology,empirical,Martes_ameriana,mammal,categorical,3,Alaria_sp,nematode,endoparasite,sex_and_age,yes,negative
 Veine-Smith_et_al_2011,Veine-Smith,2011,Comparative Parasitology,parasitology,empirical,Martes_ameriana,mammal,categorical,3,Giardia_sp,nematode,endoparasite,sex_and_age,yes,non-significant
 Veine-Smith_et_al_2011,Veine-Smith,2011,Comparative Parasitology,parasitology,empirical,Martes_ameriana,mammal,categorical,3,Cryptosporidium_sp,nematode,endoparasite,sex_and_age,yes,non-significant
-Vicente_et_al_2007,Vicente,2007,Naturwissenschaften,general biology,empirical,Cervus_elaphus,mammal,categorical,4,Elaphostrongylus_cervi,nematode,endoparasite,sex_and_spleen_size,yes,?
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Oesophagostomum_sp,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Cephaluris_coloradensis,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Eugenuris_schumakowiescsi,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Haemonchus_sp,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Trichuris_sp,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Chbertiinae_sp,nematode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Schizorchis_sp,cestode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Ochotonae_sp,cestode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Hymenolepis_nana,cestode,endoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Hypoderma_curzonial,fly,ectoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Pulex_sp,flea,ectoparasite,site,no,non-significant
-Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,,Ixodes_ovatus,tick,ectoparasite,site,no,non-significant
+Vicente_et_al_2007,Vicente,2007,Naturwissenschaften,general biology,empirical,Cervus_elaphus,mammal,categorical,4,Elaphostrongylus_cervi,nematode,endoparasite,sex_and_spleen_size,yes,unknown
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Oesophagostomum_sp,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Cephaluris_coloradensis,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Eugenuris_schumakowiescsi,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Haemonchus_sp,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Trichuris_sp,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Chbertiinae_sp,nematode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Schizorchis_sp,cestode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Ochotonae_sp,cestode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Hymenolepis_nana,cestode,endoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Hypoderma_curzonial,fly,ectoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Pulex_sp,flea,ectoparasite,site,no,non-significant
+Wang_et_al_2009,Wang,2009,Journal of Wildlife Diseases,disease,empirical,Ochotona_curzoniae,mammal,continuous,0,Ixodes_ovatus,tick,ectoparasite,site,no,non-significant
 Watkins_&_Blouin-Demers_2019,Watkins,2019,Canadian Journal of Zoology,general biology,empirical,Sceloporus_clarkii,reptile/amphibian,categorical,2,Trombiculidae,chigger,ectoparasite,body_size,yes,non-significant
 Watkins_&_Blouin-Demers_2019,Watkins,2019,Canadian Journal of Zoology,general biology,empirical,Sceloporus_clarkii,reptile/amphibian,categorical,2,Ixodida,tick,ectoparasite,body_size,yes,non-significant
 Webster_et_al_2014,Webster,2014,Wildlife Biology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,2,Ixodes_trichosuri,tick,ectoparasite,habitat,no,non-significant
@@ -862,7 +862,7 @@ Webster_et_al_2014,Webster,2014,Wildlife Biology,general biology,empirical,Trich
 Webster_et_al_2014,Webster,2014,Wildlife Biology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,2,Trichosurolaelaps_crassipes,mite,ectoparasite,habitat,no,non-significant
 Webster_et_al_2014,Webster,2014,Wildlife Biology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,2,Echidnophaga_myrmecobii,flea,ectoparasite,habitat,no,non-significant
 Webster_et_al_2014,Webster,2014,Wildlife Biology,general biology,empirical,Trichosurus_vulpecula,mammal,categorical,2,Ctenocephalides_felis,flea,ectoparasite,habitat,no,non-significant
-White_&_Gray_2020,White,2020,Journal of Aquatic Animal Health,general biology,empirical,Salvelinus_fontinalis,fish,continuous,,Salmincola_edwardsii,copepod,ectoparasite,attatchment_location,no,non-significant
+White_&_Gray_2020,White,2020,Journal of Aquatic Animal Health,general biology,empirical,Salvelinus_fontinalis,fish,continuous,0,Salmincola_edwardsii,copepod,ectoparasite,attatchment_location,no,non-significant
 Young_et_al_2013,Young,2013,Journal of Parasitology,parasitology,empirical,Negaprion_brevirostris,fish,categorical,2,Dermophthirius_nigrellii,monogenoid,ectoparasite,age,yes,non-linear
 Yunik_et_al_2016,Yunik,2016,Canadian Entomological Society,general biology,empirical,Urocitellus_richardsonii,mammal,categorical,2,Linognathoides_laeviusculus,lice,ectoparasite,season,yes,negative
 Zahn_&_Rupp_2006,Zahn,2006,Zoological Society of London,general biology,empirical,Myotis_daubentonii,mammal,categorical,2,Spinturnicidae,mite,ectoparasite,body_condition,yes,non-significant
@@ -886,317 +886,3 @@ Zahn_&_Rupp_2006,Zahn,2006,Zoological Society of London,general biology,empirica
 Zahn_&_Rupp_2006,Zahn,2006,Zoological Society of London,general biology,empirical,Pipistrellus_pipistrellus,mammal,categorical,2,Ischnopsyllidae,flea,ectoparasite,body_condition,yes,non-significant
 Zahn_&_Rupp_2006,Zahn,2006,Zoological Society of London,general biology,empirical,Pipistrellus_pipistrellus,mammal,categorical,2,Argasidae,tick,ectoparasite,body_condition,yes,non-significant
 Zhao_et_al_2013,Zhao,2013,Florida Entomologist,general biology,empirical,Bactrocera_cucurbitae,invertebrate,categorical,6,Pachycrepoideus_vindemmiae,wasp,ectoparasite,age,yes,non-linear
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
