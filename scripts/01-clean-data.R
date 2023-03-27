@@ -60,6 +60,15 @@ ggplot(df1[parasite_taxonomy != "virus"]) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 
+## stacked bar plot
+ggplot(df1[parasite_taxonomy != "virus"]) +
+  geom_col(aes(y = prop, 
+               x = relationship, 
+               fill = host_taxonomy), 
+           position = "fill") + 
+  facet_wrap(~parasite_taxonomy*age_measure) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
 ## number of relationships by host age (continuous age only)
 age %>%
   filter(age_measure == "continuous") %>%
@@ -67,3 +76,12 @@ age %>%
 
 ## social behaviour
 unique(age$other_drivers_parasitism)
+
+
+## number of taxa per article
+df <- age %>%
+  group_by(host_taxonomy) %>%
+  summarise(n = n())
+
+## visualize number of taxa per article
+ggplot(df, aes(x=host_taxonomy, y=n)) + geom_bar(stat = "identity")
