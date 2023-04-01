@@ -144,8 +144,8 @@ ggplot(df1[parasite_taxonomy != "virus"]) +
                x = relationship, 
                fill = host_taxonomy), 
            position = "fill") + 
-  ylab("Proportion of articles") +
-  scale_fill_manual(values = c("red", "#2c7bb6" , "purple", "green", "pink"),
+  ylab("Proportion of articles") + xlab("Relationship") + 
+  scale_fill_manual(values = c("#8dd3c7", "#ffff99" , "#bebada", "#fb8072", "#80b1d3"),
                     name = "Host taxonomy") +
   facet_wrap(~parasite_taxonomy*age_measure) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -174,3 +174,9 @@ df <- age %>%
 
 ## visualize number of taxa per article
 ggplot(df, aes(x=host_taxonomy, y=n)) + geom_bar(stat = "identity")
+
+
+ggplot(df, aes(x=host_taxonomy, y=n, fill=host_taxonomy)) + geom_bar(stat = "identity") + ylab("Number of articles") + xlab("Host taxonomy") +
+  geom_bar(stat = "identity" ) +
+  scale_fill_manual(values = c("bird" = "#fb8072", "fish" = "#fdae61", "invertebrate" = "#fecc5c", "mammal" = "#abdda4", "reptile/amphibian" = "#2b83ba")) +
+  theme(legend.position="none")
