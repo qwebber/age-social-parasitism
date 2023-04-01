@@ -100,6 +100,11 @@ age %>%
   group_by(parasite_taxonomy) %>%
   summarise(n = n())
 
+age %>%
+  group_by(parasite_taxonomy,
+           filename) %>%
+  summarise(n = n())
+
 ## number of relationships by host age 
 age %>%
   group_by(age_measure) %>%
@@ -172,11 +177,17 @@ df <- age %>%
   group_by(host_taxonomy) %>%
   summarise(n = n())
 
+df2 <- age %>%
+  group_by(host_taxonomy,
+           filename) %>%
+  summarise(n = n()) %>%
+  print(n=130)
+
 ## visualize number of taxa per article
 ggplot(df, aes(x=host_taxonomy, y=n)) + geom_bar(stat = "identity")
 
 
-ggplot(df, aes(x=host_taxonomy, y=n, fill=host_taxonomy)) + geom_bar(stat = "identity") + ylab("Number of articles") + xlab("Host taxonomy") +
+ggplot(df2, aes(x=host_taxonomy, y=n, fill=host_taxonomy)) + geom_bar(stat = "identity") + ylab("Number of articles") + xlab("Host taxonomy") +
   geom_bar(stat = "identity" ) +
   scale_fill_manual(values = c("bird" = "#fb8072", "fish" = "#fdae61", "invertebrate" = "#fecc5c", "mammal" = "#abdda4", "reptile/amphibian" = "#2b83ba")) +
   theme(legend.position="none")
