@@ -423,9 +423,9 @@ Kopachena_et_al_2007,Kopachena,2007,Vector Ecology,ecology,empirical,Hirundo_rus
 Korine_et_al_2017,Korine,2017,Parisitology Research,parasitology,empirical,Pipistrellus_kuhlii,mammal,categorical,2,Acari,mite,ectoparasite,reproductive_state,yes,non-linear
 Korine_et_al_2017,Korine,2017,Parisitology Research,parasitology,empirical,Pipistrellus_kuhlii,mammal,categorical,2,Cimicidae,cimicid,ectoparasite,reproductive_state,yes,non-linear
 Kpan_et_al_2018,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_alleni,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,positive
-Kpan_et_al_2019,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_phyllophilus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
-Kpan_et_al_2020,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_villiersi,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
-Kpan_et_al_2021,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_plicatus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
+Kpan_et_al_2018,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_phyllophilus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
+Kpan_et_al_2018,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_villiersi,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
+Kpan_et_al_2018,Kpan,2018,Biotropica,general biology,empirical,Phrynobatrachus_plicatus,reptile/amphibian,categorical,2,Endotrombicula_pillersi,mite,endoparasite,habitat,yes,non-significant
 Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_agrarius,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
 Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_flavicoliis,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
 Krasnov_et_al_2006,Krasnov,2006,Journal of Parasitology,parasitology,empirical,Apodemus_sylvaticus,mammal,continuous,0,Siphonaptera,flea,ectoparasite,age,yes,positive
